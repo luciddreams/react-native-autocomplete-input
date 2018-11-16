@@ -45,7 +45,7 @@ class Autocomplete extends Component {
      * These styles will be applied to the container which surrounds
      * the result list.
      */
-    listContainerStyle: ViewPropTypes.style,
+    // listContainerStyle: ViewPropTypes.style,
     /**
      * These style will be applied to the result list.
      */
